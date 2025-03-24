@@ -8,7 +8,7 @@ This repository implements the framework for constructing diversified portfolios
 
 - **03_expected_shortfall_extension_under_macro_factor_model**: Demonstrates how to compute such portfolios when risk is quantified by Expected Shortfall instead of volatility, using a macro factor model for a multi-asset portfolio.
 
-- **04_choice_of_importance_parameters**: Discusses how to balance asset-level and factor-level risk contributions through the choice of importance parameters.
+- **04_choice_of_importance_parameters**: Discusses how to balance asset-level and factor-level risk contributions through the choice of importance parameters using Bayesian optimization.
 
 
 
